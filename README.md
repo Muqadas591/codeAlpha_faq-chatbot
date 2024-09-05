@@ -1,0 +1,1 @@
+This application leverages natural language processing to provide answers to frequently asked questions from a dataset. Built with Python, NLTK, spaCy, and Flask, it offers an interactive web interface for seamless user interaction.
